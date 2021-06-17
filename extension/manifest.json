@@ -5,8 +5,8 @@
   "description": "Adds accessibility and usability improvements to אייוועלט.",
   "version": "2.0.0.0",
   "icons": {
-    "48": "img/ivelt-logo-48x48.png",
-    "128": "img/ivelt-logo-128x128.png"
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
   },
   "content_scripts": [
     {
@@ -27,6 +27,8 @@
   "options_page": "settings.html",
   "permissions": [
     "background",
+    "storage",
+    "cookies",
     "alarms",
     "*://*.ivelt.com/*",
     "*://*.yiddishworld.com/*",
