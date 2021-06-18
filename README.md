@@ -1,5 +1,5 @@
-# iVeltChromeAssistant
-Adds accessibility and usability improvements to אייוועלט.
+# iVelt Assistant | אייוועלט העלפער
+A browser extension which adds accessibility and usability improvements to אייוועלט.
 
 ## Features:
 * Go to next/previous page by pressing the left and right <kbd>←</kbd><kbd>→</kbd> keyboard keys.
@@ -7,3 +7,6 @@ Adds accessibility and usability improvements to אייוועלט.
 * Receive inbox badge notifications even when not on אייוועלט.
 * New response notifications while on topic pages.
 * New page notification while on topic pages.
+* Various other fixes and options.
+
+## Install
