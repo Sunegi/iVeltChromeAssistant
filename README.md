@@ -10,3 +10,4 @@ A browser extension which adds accessibility and usability improvements to אי�
 * Various other fixes and options.
 
 ## Install
+Download and install from the **Chrome Web Store**
